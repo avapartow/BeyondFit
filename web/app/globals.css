@@ -36,7 +36,7 @@
   
   /* Premium button styles */
   .btn-primary {
-    @apply px-6 py-3 bg-gradient-to-r from-primary-600 to-secondary-600 text-white font-semibold rounded-xl shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300;
+    @apply px-6 py-3 bg-gradient-to-r from-purple-600 via-purple-500 to-pink-500 text-white font-semibold rounded-xl shadow-lg hover:shadow-2xl hover:scale-105 hover:from-purple-700 hover:via-purple-600 hover:to-pink-600 transition-all duration-300;
   }
   
   .btn-secondary {
