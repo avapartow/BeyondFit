@@ -1,8 +1,34 @@
-# BeyondFit - AI-Powered Style Recommendations
+<div align="center">
 
-A cross-platform product (Web + Mobile) that provides body-aware style recommendations with affiliate commerce integration.
+# 💎 BeyondFit
 
-## 🎯 Overview
+### AI-Powered Fashion Recommendations for Every Body
+
+*Discover clothing that flatters your unique shape*
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub](https://img.shields.io/badge/github-avapartow%2FBeyondFit-blue)](https://github.com/avapartow/BeyondFit)
+[![License](https://img.shields.io/badge/license-Proprietary-red.svg)]()
+
+[Live Demo](https://beyondfit-demo.vercel.app) • [Documentation](./docs) • [Report Bug](https://github.com/avapartow/BeyondFit/issues)
+
+---
+
+</div>
+
+## ✨ What is BeyondFit?
+
+**BeyondFit** is a cutting-edge AI-powered fashion platform that revolutionizes online shopping by providing personalized style recommendations based on your unique body type. Unlike traditional fashion apps, BeyondFit uses advanced computer vision to analyze your body proportions and suggest clothing that truly flatters your shape.
+
+### 🌟 Key Highlights
+
+- 🤖 **AI Body Analysis** - MediaPipe-powered body ratio detection
+- 👗 **Smart Recommendations** - Personalized outfit suggestions tailored to your shape
+- 🛍️ **Seamless Shopping** - Curated affiliate links from top brands
+- 🔒 **Privacy First** - Photos deleted immediately after analysis (unless you opt-in)
+- 📱 **Cross-Platform** - Beautiful web and mobile experiences
+
+## 🎯 The Problem We Solve
 
 BeyondFit helps users discover clothing that flatters their unique body type through:
 - **Body Analysis**: AI-powered body ratio detection from photos
@@ -163,10 +189,57 @@ See [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) for detailed deployment instruction
 
 Proprietary - All rights reserved
 
+## 📸 Screenshots
+
+<div align="center">
+
+### 🌐 Live Demo
+Check out our [interactive demo](./demo/index.html) with the animated diamond logo!
+
+*Open `demo/index.html` in your browser to see the homepage*
+
+</div>
+
+## 📊 Project Statistics
+
+- **Total Files**: 47
+- **Lines of Code**: 6,455+
+- **Languages**: Python, TypeScript, JavaScript, CSS
+- **Components**: 8 API routers, 4 web pages, complete admin dashboard
+- **Documentation**: Architecture diagrams, setup guides, API docs
+
+## 🛠️ Built With
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-3-38bdf8?logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
+
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-0.104-009688?logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-336791?logo=postgresql)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-AI-orange)
+
 ## 🤝 Contributing
 
 Internal project - see team guidelines
 
+## 📄 License
+
+Proprietary - All rights reserved
+
+## 📬 Contact
+
+**Project Link**: [https://github.com/avapartow/BeyondFit](https://github.com/avapartow/BeyondFit)
+
 ---
 
-Built with ❤️ by the BeyondFit team
+<div align="center">
+
+Built with 💎 by the BeyondFit team
+
+*Empowering everyone to look and feel their best*
+
+</div>
